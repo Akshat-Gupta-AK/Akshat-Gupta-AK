@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
@@ -56,16 +55,16 @@
 ---
 
 ### 💬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshat-gupta-737b8628b)
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/Akshat-Gupta-AK/Akshat-Gupta-AK/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-gupta-737b8628b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:akshatgupt2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🤖 Quote of the Day
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
-
----
