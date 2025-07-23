@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Akshat-Gupta-AK/Akshat-Gupta-AK/blob/main/assets/akshat_github_profile.png" width="150" height="150" style="border-radius: 50%;" alt="Akshat Gupta"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">
