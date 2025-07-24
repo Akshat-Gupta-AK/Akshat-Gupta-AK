@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">
   <a href="https://github.com/Akshat-Gupta-AK">
@@ -34,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Gupta-AK&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Akshat-Gupta-AK&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Gupta-AK&theme=tokyonight&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Gupta-AK&layout=compact&theme=tokyonight" />
 </p>
